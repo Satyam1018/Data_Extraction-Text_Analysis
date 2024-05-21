@@ -125,8 +125,8 @@ This project successfully demonstrates the process of extracting, cleaning, and 
 - **Name** - Satyam Ojha
  
 -  **Contact Detail** 
-  - **LinkedIN** - https://www.linkedin.com/in/ojha-satyam
-  - **Email**    - ojhasatyam10@gmail.com
+   - **LinkedIN** - https://www.linkedin.com/in/ojha-satyam
+   - **Email**    - ojhasatyam10@gmail.com
     
 - **Skills**  
   - PYTHON
